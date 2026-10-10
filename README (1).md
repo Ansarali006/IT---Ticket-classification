@@ -1,7 +1,7 @@
 # Customer Support Ticket Classification
 
 ## Project Overview
-This project uses Machine Learning and Natural Language Processing (NLP) to classify customer support tickets into categories based on their text.
+This project uses Machine Learning to classify customer support tickets into categories based on their text.
 
 ## Models Used
 - Logistic Regression
